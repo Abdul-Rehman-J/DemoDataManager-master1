@@ -1,0 +1,7 @@
+#Thu Mar 16 19:17:44 PKT 2017
+base.0=C\:\\Users\\abdul\\Downloads\\DemoDataManager-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92a4be63d0ac4c66c6a49d74b08c7cad9574572e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\abdul\\Downloads\\DemoDataManager-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de1af1c047ca71d23ff28a11af047f4b0af95fda\\classes.dex
+base.1=C\:\\Users\\abdul\\Downloads\\DemoDataManager-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de1af1c047ca71d23ff28a11af047f4b0af95fda
+file.0=C\:\\Users\\abdul\\Downloads\\DemoDataManager-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92a4be63d0ac4c66c6a49d74b08c7cad9574572e\\classes.dex

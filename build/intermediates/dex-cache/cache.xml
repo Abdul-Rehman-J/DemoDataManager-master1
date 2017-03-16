@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\7cfbe012e35a1e2f00c736fb71b8b378c1a8a92f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a35fee3788ed6572bd2ea18877f0b6e8251ba9e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\Downloads\DemoDataManager-master1\SensorDataManager-master\build\intermediates\bundles\default\libs\sqlcipher.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fddf165eb67b30abc067da2f658925c379d7dbf">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\8\sqlcipher_d75fef56eeb5eba0972e3615b69247ca9dea0cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_92a4be63d0ac4c66c6a49d74b08c7cad9574572e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_20ebe90b9b82dad79fd1010cfe9e3b1a1db5d178\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\e99f54baeb401e41a8c4d693f83f4a9abd874c0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11e76d8f1509a392b79ee05ba45ec59fbebb179d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba472f023f8ecf4c919065d99d72957ff47a142a">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_de1af1c047ca71d23ff28a11af047f4b0af95fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\Downloads\DemoDataManager-master1\SensorDataManager-master\build\intermediates\bundles\default\libs\httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b762f16a072dbe778a2b72531974b1f133cb15b">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.1.2_42c04106430311a92b566e7f0cbf10fefcb5961e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\f92de503659200c584480bfb328d5683c6741200\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1e886866e5c1e3e64d305ed4bf99c7173c0a273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\3b81659ffe299d1a2ce94d8be814e327f713c0af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76e89718f38b8eb34d0eb2797aaae1fc4f6d28a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\Downloads\DemoDataManager-master1\SensorDataManager-master\build\intermediates\bundles\default\libs\ziputils-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edd88dc254ea5b8ca5799510f987583b754afc85">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\8\ziputils-1.1_ff203178b1e1333d7e5d832ffa1321bac0c2db21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\64a0ce15296b6f9369d1629585218d32595fbcc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b69f311987d51376db994a2155da625a8a7d9ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\171c08d81d3d05faac6be90e41595f731f4ddfc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1028907c0df12fb01ac6ecaa0979b54d007bc1fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\b49b689318cc001b70141394e65c92b2ee379c54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1641d25ebcf61820d23676f1116fb1501bb830d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\8a00918af80007023f70f5d3cf488864f9f37c95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d13e09d8820aa627ab5a574a77e5f1e613c4673f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abdul\.android\build-cache\4e2d1bc0fd48848bc703bd32e0ed6fd4e177987b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\abdul\Downloads\DemoDataManager-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16c97c07e8b4ee9d01cf67fa57363b7cff9cf3b4\classes.dex" />
+    </item>
+
+</items>
